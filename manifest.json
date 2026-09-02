@@ -1,0 +1,16 @@
+{
+  "background_color": "#ffffff",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "Student Budget Tracker",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "Budget",
+  "start_url": "//Traking/",
+  "theme_color": "#ffffff",
+  "description": "Simple student budget and allowance tracker",
+  "lang": "en",
+  "categories": [
+    "education"
+  ]
+}
