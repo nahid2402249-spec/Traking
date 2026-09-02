@@ -1,16 +1,18 @@
 {
-  "background_color": "#ffffff",
-  "dir": "ltr",
-  "display": "standalone",
   "name": "Student Budget Tracker",
-  "orientation": "any",
-  "scope": "/",
   "short_name": "Budget",
-  "start_url": "//Traking/",
-  "theme_color": "#ffffff",
-  "description": "Simple student budget and allowance tracker",
-  "lang": "en",
-  "categories": [
-    "education"
+  "description": "A simple and responsive student budget and allowance tracker to manage daily expenses.",
+  "start_url": "/Traking/",
+  "scope": "/Traking/",
+  "display": "standalone",
+  "background_color": "#f4f6f8",
+  "theme_color": "#2563eb",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/2936/2936758.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
   ]
 }
